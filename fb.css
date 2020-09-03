@@ -1,0 +1,80 @@
+body{
+    
+    margin: 0px;
+    font-family: Helvetica, Arial, sans-serif
+    
+}
+.header{
+    height: 95px;
+    background-color: #3b5998;
+}
+.header_left{
+    width:50%;
+    padding-top:32px;
+  float:left;
+}
+.text{
+   
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    float: left;
+    margin-left: 266px;
+  
+}
+.header_right{
+    float:left;
+    width:50%;
+    color:white
+   
+}
+.login_form{
+    color: #fff;
+    font-weight: normal;
+    padding-left: 132px;
+    padding-top: 10;
+    
+
+}
+.main-content{
+    color: #1d2129;
+    
+    
+    
+}
+.line1{
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    white-space: nowrap;
+    margin-bottom: 5px;
+    margin-left: 584px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 40px;
+    
+    
+}
+.line2{
+    color: #4b4f56;
+    margin-left: 584px;
+    letter-spacing: 1px;
+    font-size: 22px;
+    font-weight: normal;
+    
+    
+}
+.line3{
+    margin-left: 584px;
+    line-height: 35px;
+}
+.line3-1{
+    font-size: 11px;
+    height: 33px;
+    padding: 8px;
+    line-height: 35px;
+}.btn{
+    color:white;
+    background-color: green;
+    
+}
